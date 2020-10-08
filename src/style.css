@@ -1,0 +1,209 @@
+
+
+body{
+    background-color: #f3f3f3;
+    margin: 0;
+
+}
+
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+#home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #282b38;
+    width: 100vw;
+    max-width: 100%;
+    height: 100vh;
+    box-shadow: 0 5px 20px #282b3887;
+
+
+    background-image: url("https://wallpapershome.com/images/pages/pic_h/22400.jpg");
+    background-size: cover;
+
+
+
+}
+
+
+h1, h2, h3{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+button{
+    font-family: sans-serif;
+    width: fit-content;
+    height: fit-content;
+    font-size: 2.2vh;
+    border-radius: 0.5vh;
+    outline: none;
+    border: none;
+    padding: 1.5vh;
+    margin: 0.5vw;
+    margin-left: 0;
+    background: linear-gradient(90deg, #0c3d5a 0%, #2733b9 100%);
+    color: white;
+
+    transition: 0.2s;
+}
+
+button:hover{
+    background: linear-gradient(90deg, hsl(235, 100%, 74%)   0%, #2cabf7 100%);
+    color: black
+
+}
+
+#home #text {
+    position: relative;
+    width: fit-content;
+    padding: 50px;
+    border-radius: 30px;
+
+}
+
+#text h1, #text h2, #text h3{
+    text-align: left;
+    vertical-align: middle;
+    margin-top: 0;
+    margin-bottom: 2vh;;
+}
+
+#text h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 8vh;
+}
+
+#text h2{
+    font-size: 4vh;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#text h3{
+    font-size: 2.5vh;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.categorias{
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.cat{
+ 
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: left;
+    box-shadow: 00 5px 50px #000000ab;
+    background: #00000096;
+
+}
+
+.cat #text{
+
+    filter: none;
+    width: fit-content;
+    transition: .2s;
+    transform-origin: bottom left;
+    padding: 15px;
+}
+
+.cat #text h1{
+    font-size: 6vh;
+}
+
+.cat #text h3{
+    font-size: 2vh;
+}
+
+.catbg{
+
+    z-index: 1;
+    margin-top:-530px;
+    background-image: unset;
+    background-size: cover;
+    
+
+
+    
+}
+
+.cat, .catbg{
+    position: relative;
+
+
+    width: 800px;
+    max-width: 85%;
+    height: 450px;
+    max-height: 30%;
+    margin-left: auto ;
+    margin-right: auto ;
+    padding: 40px;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    transition: .3s;
+
+}
+
+.cat:hover + .catbg, .cat:hover {
+    transform: scale(1.01);
+
+}
+
+.cat:hover{
+    box-shadow: 00 5px 100px #000000ab;
+    background-color: transparent;
+    color: black;
+}
+
+
+.cat:hover > #text{
+    background: #00000096;
+
+}
+
+
+
+
+.web{
+    background-image: url("https://www.thenwguru.com/wp-content/uploads/2018/06/outer-banks-web-development-hosting.jpg");  
+}
+.tresde{
+    background-image: url("https://d1231c29xbpffx.cloudfront.net/store/productimage/55087/image/largef-a7988eae5b954e9f8aa2e1f2ef61cbbe.png?Expires=1581649891&Signature=J1qdRcqH~zzVHA0Raa8XgK97p1kVeYg4VZzDzTSlR0EPxc2tr5q9bT6Km5OVzRX6sN0QuKw2sRj6UAEk4I5WUaq0x0AwTPBCCjQ4OTtOBsXz3c8pfECvdsSnl2ngizTcx680dwkpBb5xQbEbAKH1ryjmFaX-~89cB0UBtrV--DgNiR6Xk~o8y1nthBlEiJDVzGJ10XUd7xavDi7cIqxfB2bDgnA3v~Q8t6h3gqkYGBQEkmsbANL9NracmanswkdoG7mOhGIZ1CvZ5svOEwx3fMeeRjjX6OZLnNXQnoCCk2uhBVyKBrVvgdcEFJ63OtPUxjj9OB7R-AjDl4pTsCk38A__&Key-Pair-Id=APKAIN6COYBF3ZQW7OQQ");  
+}
+.st{
+    background-image: url("https://www.rebootyourcomputer.com.au/wp-content/uploads/2017/01/custom-computer-build.jpg");  
+}
+
+
+
+.area{
+    width: 100%;
+    box-shadow: inset 0px 20px 20px -20px #0000006b;
+    padding-top: 1px;
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+}
+
+.area h1{
+    color: #4c545f6b;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 6vh;
+
+
+}

@@ -1,0 +1,36 @@
+[
+    {
+        "title": "OpenBank",
+        "description": "Proyecto prototipo de aplicacion de homebanking en PHP con transferencias, cambio de moneda y codigo QR de pago",
+        "img": "img/openbank.jpg",
+        "url": "http://sebipaps.rf.gd/openbank"
+    }
+    ,
+    {
+        "title": "PokerStats",
+        "description": "Asistente Online de Poker con Odds Calculator",
+        "img": "img/pokerstats.jpg",
+        "url": "http://sebipaps.rf.gd/poker"
+    }
+    ,
+    {
+        "title": "Renderizacion Arquitectura",
+        "description": "Renders en Blender y Vray",
+        "img": "img/archviz.jpg",
+        "url": "https://www.instagram.com/sebipaps/"
+    }
+    ,
+    {
+        "title": "Soluciones Software y Hardware",
+        "description": "Armado de PC, Arreglos, Instalacion de Software",
+        "img": "http://www.macpcnyc.com/images/laptop_fix.jpg",
+        "url": "mailto:sebipaps@"
+    }
+    ,
+    {
+        "title": "The Confused Cyborg",
+        "description": "Juego de Aventura 2D con Puzzles",
+        "img": "img/cyborg.jpg",
+        "url": "https://escueladavinci.itch.io/confusedcyborg"
+    }
+]
