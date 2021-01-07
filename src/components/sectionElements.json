@@ -1,16 +1,32 @@
 [
     {
+        "title": "AutoTrader",
+        "description": "Web app de compra venta de autos (Stack Node, express, ReactJS, mongoDB)",
+        "img": "img/auto-trader.png",
+        "url": "https://auto-trader-arg.herokuapp.com/posts"
+    },
+    
+    {
         "title": "OpenBank",
-        "description": "Proyecto prototipo de aplicacion de homebanking en PHP con transferencias, cambio de moneda y codigo QR de pago",
+        "description": "Proyecto prototipo de aplicacion de homebankingcon transferencias, cambio de moneda y codigo QR de pago (PHP)",
         "img": "img/openbank.jpg",
-        "url": "http://sebipaps.rf.gd/openbank"
+        "url": "https://sebipaps-openbank.herokuapp.com/"
     }
     ,
+
     {
         "title": "PokerStats",
-        "description": "Asistente Online de Poker con Odds Calculator",
+        "description": "Asistente Online de Poker con Odds Calculator (PHP, HTML/CSS)",
         "img": "img/pokerstats.jpg",
         "url": "http://sebipaps.rf.gd/poker"
+    }
+    ,
+
+    {
+        "title": "FinanciApp",
+        "description": "Sencilla calculadora financiera (PHP)",
+        "img": "img/financiapp.png",
+        "url": "https://sebipaps-finance-calc.herokuapp.com/index.php"
     }
     ,
     {
