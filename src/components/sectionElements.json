@@ -18,7 +18,7 @@
         "title": "PokerStats",
         "description": "Asistente Online de Poker con Odds Calculator (PHP, HTML/CSS)",
         "img": "img/pokerstats.jpg",
-        "url": "http://sebipaps.rf.gd/poker"
+        "url": "https://poker-odds-calulator.herokuapp.com/"
     }
     ,
 
