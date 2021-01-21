@@ -7,14 +7,10 @@ function App(){
     return(
        <div>
            <Home/>
+           <div className="hArea">Proyectos</div>
             {sectionElements.map( element => {
                 return(
-                    <Section 
-                        title = {element.title} 
-                        description = {element.description} 
-                        img = {element.img} 
-                        url = {element.url}
-                    />
+                    <Section element={element}/>
                 )
              })
             } 

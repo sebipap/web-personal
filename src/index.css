@@ -42,6 +42,15 @@ h1, h2, h3{
     font-family: 'Raleway', sans-serif;
 }
 
+.hArea{
+    font-size: 40px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: #404352;
+    text-align: center;
+    margin: 15px;
+}
+
 button{
     font-family: sans-serif;
     width: fit-content;
@@ -127,7 +136,8 @@ button:hover{
 }
 
 .cat #text h3{
-    font-size: 2vh;
+    font-weight: normal;
+    font-size: 17px;
 }
 
 .catbg{

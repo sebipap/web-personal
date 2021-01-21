@@ -1,16 +1,26 @@
 [
     {
         "title": "AutoTrader",
-        "description": "Web app de compra venta de autos (Stack Node, express, ReactJS, mongoDB)",
+        "description": "Web app de compra venta de autos (Node, express, ReactJS y mongoDB)",
         "img": "img/auto-trader.png",
-        "url": "https://auto-trader-arg.herokuapp.com/posts"
+        "url": "https://auto-trader-arg.herokuapp.com/posts",
+        "git": "https://github.com/sebipap/AutoTrader.git"
+    },
+
+    {
+        "title": "Crypto Dolar Blue",
+        "description": "Cotización de monedas, criptomonedas y calcalculadora conversora. (Node, express y ReactJS) ",
+        "img": "img/crypto-dolar-blue.png",
+        "url": "https://crypto-dolar-blue.herokuapp.com/posts",
+        "git": "https://github.com/sebipap/crypto-dolar-blue"
     },
     
     {
         "title": "OpenBank",
         "description": "Proyecto prototipo de aplicacion de homebankingcon transferencias, cambio de moneda y codigo QR de pago (PHP)",
         "img": "img/openbank.jpg",
-        "url": "https://sebipaps-openbank.herokuapp.com/"
+        "url": "https://sebipaps-openbank.herokuapp.com/",
+        "git": "https://github.com/sebipap/openbank"
     }
     ,
 
@@ -18,15 +28,17 @@
         "title": "PokerStats",
         "description": "Asistente Online de Poker con Odds Calculator (PHP, HTML/CSS)",
         "img": "img/pokerstats.jpg",
-        "url": "https://poker-odds-calulator.herokuapp.com/"
+        "url": "https://poker-odds-calulator.herokuapp.com/",
+        "git": "https://github.com/sebipap/pokerodds"
     }
     ,
 
     {
-        "title": "FinanciApp",
+        "title": "Finance Calc",
         "description": "Sencilla calculadora financiera (PHP)",
         "img": "img/financiapp.png",
-        "url": "https://sebipaps-finance-calc.herokuapp.com/index.php"
+        "url": "https://sebipaps-finance-calc.herokuapp.com/index.php",
+        "git": "https://github.com/sebipap/financeCalc"
     }
     ,
     {
@@ -40,7 +52,7 @@
         "title": "Soluciones Software y Hardware",
         "description": "Armado de PC, Arreglos, Instalacion de Software",
         "img": "http://www.macpcnyc.com/images/laptop_fix.jpg",
-        "url": "mailto:sebipaps@"
+        "url": "mailto:sebipaps@gmail.com"
     }
     ,
     {
