@@ -29,7 +29,8 @@ html,body
     box-shadow: 0 5px 20px #282b3887;
 
 
-    background-image: url("https://wallpapershome.com/images/pages/pic_h/22400.jpg");
+    background-image: url("bg.jpg");  
+    /* background-color: rgb(21, 25, 36); */
     background-size: cover;
 
 
@@ -53,23 +54,24 @@ h1, h2, h3{
 
 button{
     font-family: sans-serif;
+    font-weight: bold;
     width: fit-content;
     height: fit-content;
-    font-size: 2.2vh;
-    border-radius: 0.5vh;
+    font-size:15px;
+    border-radius: 2px;
+    border: 2px solid white;
     outline: none;
-    border: none;
-    padding: 1.5vh;
+    padding: 10px;
     margin: 0.5vw;
     margin-left: 0;
-    background: linear-gradient(90deg, #0c3d5a 0%, #2733b9 100%);
+    background-color: transparent;
     color: white;
 
     transition: 0.2s;
 }
 
 button:hover{
-    background: linear-gradient(90deg, hsl(235, 100%, 74%)   0%, #2cabf7 100%);
+    background-color: white;
     color: black
 
 }
