@@ -11,6 +11,8 @@ function Home(){
             <a href="http://mailto:sebipaps@gmail.com"><button>Enviar Email</button></a>
             <a href="https://www.linkedin.com/in/sebasti%C3%A1n-papanicolau-10baa91b1/"><button>LinkedIn</button></a>
             <a href="https://github.com/sebipap"><button>GitHub</button></a>
+            <a href="/resume.pdf"><button>CV</button></a>
+
         </div>
 
         </div>
