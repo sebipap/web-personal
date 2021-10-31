@@ -1,5 +1,12 @@
 [
     {
+        "title": "Open Ticket",
+        "description": "Crear eventos, vender tickets, escanear QR, login con Google (Node, express, ReactJS y mongoDB)",
+        "img": "img/openticket.png",
+        "url": "https://openticket-front.herokuapp.com/",
+        "git": "https://github.com/sebipap/openticket-backend"
+    },
+    {
         "title": "AutoTrader",
         "description": "Web app de compra venta de autos (Node, express, ReactJS y mongoDB)",
         "img": "img/auto-trader.png",
